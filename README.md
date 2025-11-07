@@ -1,41 +1,32 @@
 ## 👋 Assalamu Alaikum, Mahmudul Hasan Piash
 
-I’m a **Computer Science student** passionate about **Machine Learning, Embeeded System and IoT, and Software Development**. With experience in **Problem Solving** and projects in **Embedded Systems** and **Frontend Development**, I love building solutions that are both **innovative and practical**.  
+I’m a **Computer Science student** with a strong passion for  **Machine Learning, Embedded Systems, IoT, and Software Development** . I have hands-on experience in  **problem-solving** ,  **embedded system projects** , and  **frontend development** , combining technical knowledge with creativity to build  **innovative and practical software solutions** . I’m eager to contribute my skills to a dynamic team and grow as a software engineer by tackling real-world challenges.
 
-**📌 Currently Learning:** Deep Learning & NLP   
+**📌 Currently Learning:** Deep Learning & NLP
 **💡 Interests:** Problem Solving, IoT based Projects, Full-Stack Development, ML.
-**📫 Contact:** [piash15-5606@diu.edu.bd](mailto:piash15-5606@diu.edu.bd)  
+**📫 Contact:** [piash15-5606@diu.edu.bd](mailto:piash15-5606@diu.edu.bd)
 **🔗 [Visit My Portfolio](https://sites.google.com/diu.edu.bd/piash5606/home?authuser=2)**
- 
 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
+## `<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVrZWY3OHJzdXVxeGxkcmw0ODg4enY3azFjbjZkdnk2NGpwMDhleSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="32">` Tech Skills
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=arduino,cpp,css,dart,c,python,java,html,css,tailwind,js,react,firebase,nodejs,express,mysql,git,github,vscode,figma,flutter,eclipse,py,pycharm,windowslinux&theme=dark" />
 </div>
 
-
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4M25iM3E4YmJmOGJlNDY1YmlqOTZvY3plYXlmNXd0Zmo3bmM2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="32"> GitHub Analytics
+## `<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZteGw0aWhpNWFsZm90eGlsdDNubGFrZjVxdDVscDZhNmNneW4xcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif" width="28">` GitHub Analytics
 
 <div align="center">
-
 
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=Pi-Pika&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-Pika&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8&v=2" />
 
-
 <img src="https://streak-stats.demolab.com/?user=Pi-Pika&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10&v=1" />
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pi-Pika&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10&v=2" />
 
 </div>
 
-
-
-
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh0dmg3cGU4cjJxNnc3cGFseGJldGwzeGQ5YWI4czRmZ3RrZjEyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="32"> Socials
+## `<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdyN2szMXg3dDRwbzd2cTRiMmMza3h2bzF1dTNtZnBsZzlmMTY3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A4qEsr8Kb6mIE3v4AZ/giphy.gif" width="32">` Social Media
 
 <p align="center">
 <a href="https://www.linkedin.com/in/piash-mahmud-a82205233/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="https://www.linkedin.com/in/piash-mahmud-a82205233/" height="48" width="48" /></a>
