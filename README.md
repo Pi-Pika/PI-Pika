@@ -26,7 +26,7 @@ I’m a **Computer Science student** with a strong passion for  **Machine Learni
 
 </div>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdyN2szMXg3dDRwbzd2cTRiMmMza3h2bzF1dTNtZnBsZzlmMTY3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A4qEsr8Kb6mIE3v4AZ/giphy.gif" width="32"> Social Media
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdyN2szMXg3dDRwbzd2cTRiMmMza3h2bzF1dTNtZnBsZzlmMTY3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/azjux6zMBW3cWxK21P/giphy.gif" width="32"> Social Media
 
 <p align="center">
 <a href="https://www.linkedin.com/in/piash-mahmud-a82205233/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="https://www.linkedin.com/in/piash-mahmud-a82205233/" height="48" width="48" /></a>
