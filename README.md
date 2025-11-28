@@ -26,7 +26,7 @@ A snapshot of the technologies I work with:
 | **Programming Languages** | C, C++, Python, Java, JavaScript, Dart |
 | **Frontend & UI/UX** | HTML, CSS, Tailwind CSS, React, Flutter, Figma |
 | **Backend & Databases** | Node.js, Express, MySQL, Firebase |
-| **Embedded & IoT** | Arduino |
+| **Embedded & IoT** | Arduino IDE (ESP32, Arduino Uno) |
 | **Tools & Version Control** | Git, GitHub, VS Code, PyCharm, Eclipse, Windows/Linux |
 
 <div align="center">
